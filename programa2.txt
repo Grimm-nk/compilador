@@ -1,0 +1,5 @@
+SET nome = "Gabriel"
+SET cidade = "Cuiaba"
+PRINT nome
+PRINT cidade
+PRINT "Compilador com variáveis funcionando!"
