@@ -1,4 +1,4 @@
-# Meu Compilador em Python 🐍
+# Compilador em Python 🐍
 
 Este é um compilador simples feito em Python que interpreta comandos básicos como `PRINT` e `SET`. Ele permite imprimir textos e trabalhar com variáveis de forma intuitiva.
 
